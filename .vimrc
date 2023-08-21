@@ -1,6 +1,5 @@
 call plug#begin('~/.vim/plugged')
-"插件放在此处
-"新增加
+"Add plugins
 Plug 'vim-airline/vim-airline' "airline状态栏
 Plug 'vim-airline/vim-airline-themes'
 Plug 'preservim/nerdtree'
